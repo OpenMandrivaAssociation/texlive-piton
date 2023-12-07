@@ -1,6 +1,6 @@
 Name:		texlive-piton
-Version:	64979
-Release:	2
+Version:	68794
+Release:	1
 Summary:	Typeset Python listings with LPEG
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/piton
