@@ -1,5 +1,5 @@
 Name:		texlive-piton
-Version:	68794
+Version:	69320
 Release:	1
 Summary:	Typeset Python listings with LPEG
 Group:		Publishing
