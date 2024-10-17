@@ -3,7 +3,7 @@ Version:	72351
 Release:	1
 Summary:	Typeset Python listings with LPEG
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/piton
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/piton
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/piton.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/piton.doc.r%{version}.tar.xz
