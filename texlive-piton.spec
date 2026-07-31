@@ -1,9 +1,9 @@
 %global tl_name piton
-%global tl_revision 79521
+%global tl_revision 79722
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	4.14
+Version:	4.14a
 Release:	%{tl_revision}.1
 Summary:	Typeset computer listings with LPeg of LuaLaTeX
 Group:		Publishing
